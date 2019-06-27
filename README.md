@@ -1,10 +1,10 @@
 # lazy
 
 
-1. macOS users can install youtube-dl with Homebrew:
+macOS users can install youtube-dl with Homebrew:
 
-```brew install youtube-dlv```
+```brew install youtube-dl```
 
-2. To download mp3 
+To download mp3 
 
 ```go run lazy.go -u [URL]```
