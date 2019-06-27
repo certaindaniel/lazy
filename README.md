@@ -3,7 +3,10 @@
 
 macOS users can install youtube-dl with Homebrew:
 
-```brew install youtube-dl```
+```
+brew install youtube-dl
+brew install ffmpeg
+```
 
 To download mp3 
 
